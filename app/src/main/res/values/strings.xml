@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="welcome">Welcome</string>
+    <string name="slogan">Sign in to get the better experience \n you can sign in with mobile number or google</string>
+    <string name="login_with_mobile">Mobile</string>
+    <string name="login_with_google">Google</string>
+    <string name="verify_num">Enter Mobile Number</string>
+    <string name="num_ver_txt">enter phone number to be verified</string>
+    <string name="ver_otp">Verify Number</string>
+    <string name="enter_confirmation_code">Please Enter Verification Code</string>
+    <string name="otp_hint">000000</string>
+    <string name="verify">Verify Number</string>
+    <string name="logged_in">You logged in with this number</string>
+    <string name="logs_for_today">Logs for today</string>
+    <string name="sync_log">Sync Log</string>
+</resources>
